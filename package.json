@@ -1,0 +1,25 @@
+{
+  "name": "verse_api",
+  "version": "1.0.0",
+  "description": "verse_api",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthiasLubbertsen/verse-display.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatthiasLubbertsen/verse-display/issues"
+  },
+  "homepage": "https://github.com/MatthiasLubbertsen/verse-display#readme",
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+}
